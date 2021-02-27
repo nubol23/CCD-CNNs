@@ -1,6 +1,6 @@
 # Sesiones CNN Club de Ciencia de Datos Bolivia
 
-En este repositorio podrán encontrar las diapositivas y Notebooks usados durante las 4 sesiones sobre Redes Neuronales Convolucionales presentadas por el Club de Ciencia de Datos Bolvia en Colaboración con la [UNIVALLE](http://www.univalle.edu/).
+En este repositorio podrán encontrar las diapositivas y Notebooks usados durante las 4 sesiones sobre Redes Neuronales Convolucionales presentadas por el [Club de Ciencia de Datos Bolvia](https://www.facebook.com/ccd.bolivia.bo) en Colaboración con la [UNIVALLE](http://www.univalle.edu/).
 
 ## Challenge
 
